@@ -1,2 +1,2 @@
-# matemax4.0
+# matemax
 uma calculadora
